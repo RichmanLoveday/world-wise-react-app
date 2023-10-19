@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2023-10-19T11:42:03.351Z",
+      "notes": "Mali is nice place for me",
+      "position": {
+        "lat": "16.227067731828228",
+        "lng": "-2.0654296875000004"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Boboye Department",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2023-10-19T11:53:37.882Z",
+      "notes": "I nice place to be",
+      "position": {
+        "lat": "13.320296854388216",
+        "lng": "2.8984035120086076"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Bight of Benin",
+      "country": "Benin",
+      "emoji": "🇧🇯",
+      "date": "2023-10-19T11:56:19.917Z",
+      "notes": "nice",
+      "position": {
+        "lat": "6.07117314418187",
+        "lng": "1.77978515625"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Yegyi",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2023-10-19T12:00:16.719Z",
+      "notes": "hjjjj",
+      "position": {
+        "lat": "8.16534556650987",
+        "lng": "-0.8349609375000001"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Alp",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-19T14:55:39.266Z",
+      "notes": "",
+      "position": {
+        "lat": "42.3409386213064",
+        "lng": "1.9335937500000002"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Emuoha",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-10-19T15:16:38.080Z",
+      "notes": "",
+      "position": {
+        "lat": "4.832628848467897",
+        "lng": "6.778564453125001"
+      },
+      "id": 10
+    }
+  ]
+}
